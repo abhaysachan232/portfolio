@@ -1,0 +1,48 @@
+
+        li {
+            float: left;width: 25%;list-style: none; text-align: center; margin-top: 10px;
+                    
+        }
+   header{
+    background-color: black;
+    color: white;
+   }
+   .left{
+    width: 40%; height: 500px; float: left;
+    text-align: center;
+   }
+   .left img{
+    width: 80%; height: 90%; margin-top: 120px
+    
+   }
+   .right{
+    width: 60%; height: 500px; float: right;
+   }
+   .intro{
+       width: 100%;
+   }
+   .intro h1{
+    margin: 50px 0 0 0; font-size: 70px;
+   }
+   .intro h1 span{
+    color:turquoise; font-size: 70px;
+   }
+   .intro h2{
+    text-align: center
+   }
+   .text{
+       width: 100%;
+   }
+   .button{
+    width: 100%; text-align: center; height: 100px; margin-top: 100px;
+
+   }
+   .download{
+    border: 1px solid black; color: white; background-color:blue; width: 20%; height: 30%;
+    border-radius: 1rem;
+   }
+
+
+
+  
+
